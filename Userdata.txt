@@ -1,0 +1,5 @@
+Name: reetika
+Gender: female
+Phone Number: 898989898
+Age: 22
+Date of Birth: 12-10-2000
